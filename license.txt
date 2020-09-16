@@ -5,3 +5,5 @@ What Git track is changes is Github version here.
 
 Now creating a new branch named dev.
 we merge the master and feature1.
+
+Test the master management strategy.
